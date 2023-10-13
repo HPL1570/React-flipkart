@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "productId": "1",
+      "title": "Midhun",
+      "brand": "MSS",
+      "price": "chepalemu",
+      "des": "Future CEO of google present lead of GDSC",
+      "imgurl": "https://media.licdn.com/dms/image/D5603AQE0rJSt9oYn0A/profile-displayphoto-shrink_800_800/0/1695926974736?e=1702512000&v=beta&t=gaG_ZL9_kfxwZt7mjGSGgvlw21khQPqrDjixg5uQAPg",
+      "id": 1
+    },
+    {
+      "productId": "2",
+      "title": "Kiran",
+      "brand": "KK",
+      "price": "123456",
+      "des": "Topper and future CEO of KK solutions",
+      "imgurl": "https://media.licdn.com/dms/image/D5635AQGnemeCZiS0DQ/profile-framedphoto-shrink_800_800/0/1683029034190?e=1697709600&v=beta&t=uum1eyBfK1GbEiwQnk5FLUVgRKe8HX5WP6iH9uCkSZs",
+      "id": 2
+    },
+    {
+      "productId": "3",
+      "title": "Fardeen",
+      "brand": "KMF",
+      "price": "waste",
+      "des": "Topper and future CEO of Fardeen solutions",
+      "imgurl": "https://media.licdn.com/dms/image/D5635AQFnC8mAM_gzcg/profile-framedphoto-shrink_800_800/0/1686575222803?e=1697713200&v=beta&t=b3qN_pgK6AqJ6Y0x-_aShubomwk18dDZku9UQ9UVvVo",
+      "id": 3
+    },
+    {
+      "productId": "4",
+      "title": "Bharath",
+      "brand": "Black Sheep",
+      "price": "2500000",
+      "des": "founder of black sheep company",
+      "imgurl": "https://media.licdn.com/dms/image/D5603AQFGyV1_uoVqGg/profile-displayphoto-shrink_800_800/0/1686191087617?e=1702512000&v=beta&t=JOLYWBAL18Bsyli4nO6VMH0MSeqC-KJdryfXr2lcZG4",
+      "id": 4
+    }
+  ]
+}
