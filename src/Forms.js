@@ -66,6 +66,7 @@ export default function Form() {
     <input type="text" class="form-control" id="price" onChange={(e)=>{setPrice(e.target.value)}}/>
   </div>
   <div class="form-group md-3">
+    <br/>
     <label for="des">description:</label>
     <input type="text" class="form-control" id="des" onChange={(e)=>{setDes(e.target.value)}}/>
   </div>
